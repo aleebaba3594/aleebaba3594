@@ -20,11 +20,9 @@
 [![Ali Ahmed Github States](https://github-readme-stats.vercel.app/api?username=aleebaba3594&show_icons=true&theme=dracula)](https://github.com/aleebaba3594/github-readme-stats)
 
 ## Social Links
-<!-- [![Ali Ahmed | LinkedIn](./img/linkedin.png)](https://www.linkedin.com/in/aliahmad14/) -->
-[![ Ali Ahmad| linkedin](https://user-images.githubusercontent.com/69896600/155517071-2cce17ca-8d54-40f2-afc7-c065a9c0ce27.png)](https://www.linkedin.com/in/aliahmad14/)
+[![ Ali Ahmed| linkedin](https://user-images.githubusercontent.com/69896600/155517071-2cce17ca-8d54-40f2-afc7-c065a9c0ce27.png)](https://www.linkedin.com/in/ali-ahmed-b24ba4235/)
 [![ Ali Ahmed |twitter](https://user-images.githubusercontent.com/69896600/155517467-1f16b333-4d6d-49ea-acd9-dcb3be9c5010.png)](https://twitter.com/aleebaba3594)
-[![ Ali Ahmad |facebook](https://user-images.githubusercontent.com/69896600/155522283-3b2ff8b2-051f-47ad-86d5-8fd9e2d238e8.png)](https://www.facebook.com/profile.php?id=100012838752669)
-
+[![ Ali Ahmed |twitter](https://user-images.githubusercontent.com/69896600/155522283-3b2ff8b2-051f-47ad-86d5-8fd9e2d238e8.png)](https://www.instagram.com/alee_ka_planet/?hl=en)
 
 
 <!--
