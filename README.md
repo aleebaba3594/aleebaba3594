@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **play snooker in free time**
 
+<p align="left"> <a href="https://twitter.com/aleebaba3594" target="blank"><img src="https://img.shields.io/twitter/follow/aleebaba3594?logo=twitter&style=for-the-badge" alt="aleebaba3594" /></a> </p>
+
 
 
 [![Ali Ahmed Github States](https://github-readme-stats.vercel.app/api?username=aleebaba3594&show_icons=true&theme=dracula)](https://github.com/aleebaba3594/github-readme-stats)
