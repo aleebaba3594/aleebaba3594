@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleebaba3594" alt="aleebaba3594" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/aleebaba3594" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/aleebaba3594?logo=twitter&style=for-the-badge" alt="https://twitter.com/aleebaba3594" /></a> </p>
+
 
 - 🌱 I’m currently learning **node.js, databases , MongoDB , WebSockets**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **play snooker in free time**
 
-<h3 align="left">Connect with me:</h3>
+
 
 [![Ali Ahmed Github States](https://github-readme-stats.vercel.app/api?username=aleebaba3594&show_icons=true&theme=dracula)](https://github.com/aleebaba3594/github-readme-stats)
 
