@@ -12,7 +12,7 @@
 - 💬 Ask me about **JavaScript, TypeScript, React, Redux, Next, Node, Express, Nest, MongoDB ,PostgreSQL**
 
 - 📫 How to reach me **aliofficial3594@gmail.com**
-- 👨‍💻 All of my projects are available at [https://aleeahmed.com/](aleeahmed.com)
+- 👨‍💻 All of my projects are available at [aleeahmed.com](https://aleeahmed.com/)
 
 - ⚡ Fun fact **play snooker in free time**
 
